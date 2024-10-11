@@ -1,0 +1,13 @@
+body {
+    overflow: hidden;
+    background-color: rgba(32, 32, 32, 0.795);
+}
+
+h1 {
+    font-family: sans-serif;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    color: purple;
+}
